@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+td {
+  padding: 1px !important;
+}
+
+.pagerBar {
+  text-align: center;
+}
+
+.actions {
+  cursor: pointer;
+}
+
+.ml-20 {
+  margin-left: 20px;
+}

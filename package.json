@@ -1,7 +1,7 @@
 {
   "name": "auto1-test-task",
   "version": "1.0.0",
-  "homepage": "https://guptaaditya.github.io/auto1",
+  "homepage": "https://guptaaditya.github.io/merchants",
   "dependencies": {
     "autoprefixer": "7.1.2",
     "babel-core": "6.25.0",
